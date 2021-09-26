@@ -490,6 +490,7 @@ input.onButtonPressed(Button.A, function () {
         . . . . .
         `)
 })
+basic.showString("Go")
 basic.forever(function () {
 	
 })
